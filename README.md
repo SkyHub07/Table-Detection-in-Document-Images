@@ -1,4 +1,4 @@
-This Projects detects and recognizes the structure of tables in document images. We have proposed an Deep learing and image processing method. We evaluated our results on ICDAR 2013 dataset.
+This Projects detects and recognizes the structure of tables in document images. We have proposed an Deep learning and image processing method. We evaluated our results on ICDAR 2013 dataset.
 
 
 Install python libraries:
